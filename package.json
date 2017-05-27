@@ -67,6 +67,7 @@
     "duplexer": "^0.1.1",
     "hyperquest": "^2.0.0",
     "rimraf": "^2.5.4",
+    "strftime": "^0.10.0",
     "through": "^2.3.8",
     "through2": "^2.0.1",
     "through2-map": "^3.0.0",
@@ -77,6 +78,7 @@
   "devDependencies": {
     "standard": "^8.1.0",
     "standard-version": "^4.0.0",
+    "through2-map": "^3.0.0",
     "workshopper-adventure-test": "^1.0.4"
   },
   "scripts": {
